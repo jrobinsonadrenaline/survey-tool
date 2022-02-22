@@ -3,12 +3,128 @@
   {
     "id": 1,
     "clientId": "7373238e-368f-40f8-acac-f6334cc5e3ce",
-    "clientName": "Santander Bank" 
+    "clientName": "Santander Bank",
+    "locations": [{
+      "id": 1,
+      "name": "Abata",
+      "code": 625.36418,
+      "address": "206 Gina Circle",
+      "city": "Lansing",
+      "state": "MI",
+      "zip": "48956"
+    }, {
+      "id": 2,
+      "name": "Eimbee",
+      "code": 525.1853,
+      "address": "37511 Golf View Hill",
+      "city": "Garden Grove",
+      "state": "CA",
+      "zip": "92645"
+    }, {
+      "id": 3,
+      "name": "Dazzlesphere",
+      "code": 787.79249,
+      "address": "2876 Corscot Trail",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73124"
+    }, {
+      "id": 4,
+      "name": "Quatz",
+      "code": 394.25911,
+      "address": "36254 Pearson Court",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "zip": "33075"
+    }, {
+      "id": 5,
+      "name": "Kwinu",
+      "code": 791.87237,
+      "address": "76 Donald Circle",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92013"
+    }, {
+      "id": 6,
+      "name": "Janyx",
+      "code": 74.33078,
+      "address": "75256 Myrtle Way",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38161"
+    }, {
+      "id": 7,
+      "name": "Voonder",
+      "code": 710.8741,
+      "address": "3104 Swallow Way",
+      "city": "Fullerton",
+      "state": "CA",
+      "zip": "92640"
+    }, {
+      "id": 8,
+      "name": "Oyope",
+      "code": 694.11528,
+      "address": "3052 Briar Crest Street",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02104"
+    }, {
+      "id": 9,
+      "name": "Youbridge",
+      "code": 429.05309,
+      "address": "839 Darwin Pass",
+      "city": "Newport Beach",
+      "state": "CA",
+      "zip": "92662"
+    }, {
+      "id": 10,
+      "name": "Photobean",
+      "code": 458.34557,
+      "address": "1 Knutson Park",
+      "city": "Shawnee Mission",
+      "state": "KS",
+      "zip": "66225"
+    }]
   },
   {
     "id": 2,
     "clientId": "1111238e-368f-40f8-acac-f6334cc5e3ce",
-    "clientName": "American Bank"
+    "clientName": "American Bank",
+    "locations": [
+      {
+        "id": 6,
+        "name": "Janyx",
+        "code": 74.33078,
+        "address": "75256 Myrtle Way",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38161"
+      }, {
+        "id": 7,
+        "name": "Voonder",
+        "code": 710.8741,
+        "address": "3104 Swallow Way",
+        "city": "Fullerton",
+        "state": "CA",
+        "zip": "92640"
+      }, {
+        "id": 8,
+        "name": "Oyope",
+        "code": 694.11528,
+        "address": "3052 Briar Crest Street",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "02104"
+      }, {
+        "id": 9,
+        "name": "Youbridge",
+        "code": 429.05309,
+        "address": "839 Darwin Pass",
+        "city": "Newport Beach",
+        "state": "CA",
+        "zip": "92662"
+      }  
+    ]
   }
 ]
 }
