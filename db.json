@@ -11,7 +11,7 @@
       "address": "206 Gina Circle",
       "city": "Lansing",
       "state": "MI",
-      "zip": "48956"
+      "zip": 48956
     }, {
       "id": 2,
       "name": "Eimbee",
@@ -19,7 +19,7 @@
       "address": "37511 Golf View Hill",
       "city": "Garden Grove",
       "state": "CA",
-      "zip": "92645"
+      "zip": 92645
     }, {
       "id": 3,
       "name": "Dazzlesphere",
@@ -27,7 +27,7 @@
       "address": "2876 Corscot Trail",
       "city": "Oklahoma City",
       "state": "OK",
-      "zip": "73124"
+      "zip": 73124
     }, {
       "id": 4,
       "name": "Quatz",
@@ -35,7 +35,7 @@
       "address": "36254 Pearson Court",
       "city": "Pompano Beach",
       "state": "FL",
-      "zip": "33075"
+      "zip": 33075
     }, {
       "id": 5,
       "name": "Kwinu",
@@ -43,7 +43,7 @@
       "address": "76 Donald Circle",
       "city": "Carlsbad",
       "state": "CA",
-      "zip": "92013"
+      "zip": 92013
     }, {
       "id": 6,
       "name": "Janyx",
@@ -51,7 +51,7 @@
       "address": "75256 Myrtle Way",
       "city": "Memphis",
       "state": "TN",
-      "zip": "38161"
+      "zip": 38161
     }, {
       "id": 7,
       "name": "Voonder",
@@ -59,7 +59,7 @@
       "address": "3104 Swallow Way",
       "city": "Fullerton",
       "state": "CA",
-      "zip": "92640"
+      "zip": 92640
     }, {
       "id": 8,
       "name": "Oyope",
@@ -67,7 +67,7 @@
       "address": "3052 Briar Crest Street",
       "city": "Boston",
       "state": "MA",
-      "zip": "02104"
+      "zip": 02104
     }, {
       "id": 9,
       "name": "Youbridge",
@@ -75,7 +75,7 @@
       "address": "839 Darwin Pass",
       "city": "Newport Beach",
       "state": "CA",
-      "zip": "92662"
+      "zip": 92662
     }, {
       "id": 10,
       "name": "Photobean",
@@ -83,7 +83,7 @@
       "address": "1 Knutson Park",
       "city": "Shawnee Mission",
       "state": "KS",
-      "zip": "66225"
+      "zip": 66225
     }]
   },
   {
@@ -98,7 +98,7 @@
         "address": "75256 Myrtle Way",
         "city": "Memphis",
         "state": "TN",
-        "zip": "38161"
+        "zip": 38161
       }, {
         "id": 7,
         "name": "Voonder",
@@ -106,7 +106,7 @@
         "address": "3104 Swallow Way",
         "city": "Fullerton",
         "state": "CA",
-        "zip": "92640"
+        "zip": 92640
       }, {
         "id": 8,
         "name": "Oyope",
@@ -114,7 +114,7 @@
         "address": "3052 Briar Crest Street",
         "city": "Boston",
         "state": "MA",
-        "zip": "02104"
+        "zip": 02104
       }, {
         "id": 9,
         "name": "Youbridge",
@@ -122,7 +122,7 @@
         "address": "839 Darwin Pass",
         "city": "Newport Beach",
         "state": "CA",
-        "zip": "92662"
+        "zip": 92662
       }  
     ]
   }
