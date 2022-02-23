@@ -7,7 +7,7 @@
     "locations": [{
       "id": 1,
       "name": "Abata",
-      "code": 625.36418,
+      "code": 625,
       "address": "206 Gina Circle",
       "city": "Lansing",
       "state": "MI",
@@ -15,7 +15,7 @@
     }, {
       "id": 2,
       "name": "Eimbee",
-      "code": 525.1853,
+      "code": 525,
       "address": "37511 Golf View Hill",
       "city": "Garden Grove",
       "state": "CA",
@@ -23,7 +23,7 @@
     }, {
       "id": 3,
       "name": "Dazzlesphere",
-      "code": 787.79249,
+      "code": 787,
       "address": "2876 Corscot Trail",
       "city": "Oklahoma City",
       "state": "OK",
@@ -31,7 +31,7 @@
     }, {
       "id": 4,
       "name": "Quatz",
-      "code": 394.25911,
+      "code": 394,
       "address": "36254 Pearson Court",
       "city": "Pompano Beach",
       "state": "FL",
@@ -39,7 +39,7 @@
     }, {
       "id": 5,
       "name": "Kwinu",
-      "code": 791.87237,
+      "code": 791,
       "address": "76 Donald Circle",
       "city": "Carlsbad",
       "state": "CA",
@@ -47,7 +47,7 @@
     }, {
       "id": 6,
       "name": "Janyx",
-      "code": 74.33078,
+      "code": 74,
       "address": "75256 Myrtle Way",
       "city": "Memphis",
       "state": "TN",
@@ -55,7 +55,7 @@
     }, {
       "id": 7,
       "name": "Voonder",
-      "code": 710.8741,
+      "code": 710,
       "address": "3104 Swallow Way",
       "city": "Fullerton",
       "state": "CA",
@@ -63,7 +63,7 @@
     }, {
       "id": 8,
       "name": "Oyope",
-      "code": 694.11528,
+      "code": 694,
       "address": "3052 Briar Crest Street",
       "city": "Boston",
       "state": "MA",
@@ -71,7 +71,7 @@
     }, {
       "id": 9,
       "name": "Youbridge",
-      "code": 429.05309,
+      "code": 429,
       "address": "839 Darwin Pass",
       "city": "Newport Beach",
       "state": "CA",
@@ -79,7 +79,7 @@
     }, {
       "id": 10,
       "name": "Photobean",
-      "code": 458.34557,
+      "code": 458,
       "address": "1 Knutson Park",
       "city": "Shawnee Mission",
       "state": "KS",
@@ -94,7 +94,7 @@
       {
         "id": 6,
         "name": "Janyx",
-        "code": 74.33078,
+        "code": 74,
         "address": "75256 Myrtle Way",
         "city": "Memphis",
         "state": "TN",
@@ -102,7 +102,7 @@
       }, {
         "id": 7,
         "name": "Voonder",
-        "code": 710.8741,
+        "code": 710,
         "address": "3104 Swallow Way",
         "city": "Fullerton",
         "state": "CA",
@@ -110,7 +110,7 @@
       }, {
         "id": 8,
         "name": "Oyope",
-        "code": 694.11528,
+        "code": 694,
         "address": "3052 Briar Crest Street",
         "city": "Boston",
         "state": "MA",
@@ -118,7 +118,7 @@
       }, {
         "id": 9,
         "name": "Youbridge",
-        "code": 429.05309,
+        "code": 429,
         "address": "839 Darwin Pass",
         "city": "Newport Beach",
         "state": "CA",
