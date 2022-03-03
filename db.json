@@ -5,7 +5,7 @@
     "clientId": "7373238e-368f-40f8-acac-f6334cc5e3ce",
     "clientName": "Santander Bank",
     "locations": [{
-      "id": 1,
+      "locationId": 1,
       "name": "Abata",
       "code": "625",
       "address": "206 Gina Circle",
@@ -13,7 +13,7 @@
       "state": "MI",
       "zip": 48956
     }, {
-      "id": 2,
+      "locationId": 2,
       "name": "Eimbee",
       "code": "525",
       "address": "37511 Golf View Hill",
@@ -21,7 +21,7 @@
       "state": "CA",
       "zip": 92645
     }, {
-      "id": 3,
+      "locationId": 3,
       "name": "Dazzlesphere",
       "code": "787",
       "address": "2876 Corscot Trail",
@@ -29,7 +29,7 @@
       "state": "OK",
       "zip": 73124
     }, {
-      "id": 4,
+      "locationId": 4,
       "name": "Quatz",
       "code": "394",
       "address": "36254 Pearson Court",
@@ -37,7 +37,7 @@
       "state": "FL",
       "zip": 33075
     }, {
-      "id": 5,
+      "locationId": 5,
       "name": "Kwinu",
       "code": "791",
       "address": "76 Donald Circle",
@@ -45,7 +45,7 @@
       "state": "CA",
       "zip": 92013
     }, {
-      "id": 6,
+      "locationId": 6,
       "name": "Janyx",
       "code": "74",
       "address": "75256 Myrtle Way",
@@ -53,7 +53,7 @@
       "state": "TN",
       "zip": 38161
     }, {
-      "id": 7,
+      "locationId": 7,
       "name": "Voonder",
       "code": "710",
       "address": "3104 Swallow Way",
@@ -61,7 +61,7 @@
       "state": "CA",
       "zip": 92640
     }, {
-      "id": 8,
+      "locationId": 8,
       "name": "Oyope",
       "code": "694",
       "address": "3052 Briar Crest Street",
@@ -69,7 +69,7 @@
       "state": "MA",
       "zip": 12104
     }, {
-      "id": 9,
+      "locationId": 9,
       "name": "Youbridge",
       "code": "429",
       "address": "839 Darwin Pass",
@@ -77,7 +77,7 @@
       "state": "CA",
       "zip": 92662
     }, {
-      "id": 10,
+      "locationId": 10,
       "name": "Photobean",
       "code": "458",
       "address": "1 Knutson Park",
@@ -92,7 +92,7 @@
     "clientName": "American Bank",
     "locations": [
       {
-        "id": 6,
+        "locationId": 11,
         "name": "Janyx",
         "code": "791",
         "address": "75256 Myrtle Way",
@@ -100,7 +100,7 @@
         "state": "TN",
         "zip": 38166
       }, {
-        "id": 7,
+        "locationId": 12,
         "name": "Voonder",
         "code": "799",
         "address": "3104 Swallow Way",
@@ -108,7 +108,7 @@
         "state": "CA",
         "zip": 92641
       }, {
-        "id": 8,
+        "locationId": 18,
         "name": "Oyope",
         "code": "612",
         "address": "3052 Briar Crest Street",
@@ -116,7 +116,7 @@
         "state": "MA",
         "zip": 32106
       }, {
-        "id": 9,
+        "locationId": 19,
         "name": "Youbridge",
         "code": "10001",
         "address": "839 Darwin Pass",
